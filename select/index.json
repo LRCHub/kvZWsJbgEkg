@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Ignorance",
+  "base_artist": "Paramore",
+  "createdAt": "2026-03-16T04:13:46.963358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shadows of Ignorance",
+      "artist": "Klaus Schulze",
+      "has_synced": false,
+      "path": "select/01_Shadows_of_Ignorance_Klaus_Schulze.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Value of Ignorance",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/02_The_Value_of_Ignorance_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Value Of Ignorance",
+      "artist": "Sinead O'Connor",
+      "has_synced": false,
+      "path": "select/03_The_Value_Of_Ignorance_Sinead_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ignorance Is Bliss",
+      "artist": "The Divine Comedy",
+      "has_synced": false,
+      "path": "select/04_Ignorance_Is_Bliss_The_Divine_Comedy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ignorance Is Bliss",
+      "artist": "Jellyfish",
+      "has_synced": true,
+      "path": "select/05_Ignorance_Is_Bliss_Jellyfish.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "From Ignorance to Oblivion - Demo",
+      "artist": "Gorefest",
+      "has_synced": true,
+      "path": "select/06_From_Ignorance_to_Oblivion_-_Demo_Gorefest.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "From Ignorance To Oblivion",
+      "artist": "Gorefest",
+      "has_synced": true,
+      "path": "select/07_From_Ignorance_To_Oblivion_Gorefest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Arrogance and Ignorance",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/08_Arrogance_and_Ignorance_Rage.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paralyzing Ignorance",
+      "artist": "Meshuggah",
+      "has_synced": true,
+      "path": "select/09_Paralyzing_Ignorance_Meshuggah.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ignorance",
+      "artist": "Sacred Reich",
+      "has_synced": true,
+      "path": "select/10_Ignorance_Sacred_Reich.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ignorance & Innocence",
+      "artist": "Overkill",
+      "has_synced": true,
+      "path": "select/11_Ignorance_&_Innocence_Overkill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ignorance",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/12_Ignorance_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "14. Ignorance",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/13_14._Ignorance_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ignorance",
+      "artist": "Yonaka",
+      "has_synced": false,
+      "path": "select/14_Ignorance_Yonaka.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ignorance (acoustic)",
+      "artist": "Paramore",
+      "has_synced": false,
+      "path": "select/15_Ignorance_(acoustic)_Paramore.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ignorance (Live from Wembley Arena) [EP Version]",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/16_Ignorance_(Live_from_Wembley_Arena)_[EP_Version]_Paramore.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ignorance",
+      "artist": "Paramore",
+      "has_synced": false,
+      "path": "select/pl_01_Ignorance_Paramore.txt"
+    }
+  ]
+}
